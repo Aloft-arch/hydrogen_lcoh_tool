@@ -1,0 +1,22 @@
+# ⚡ Hydrogen LCOH & CO₂ Savings Calculator
+
+This Streamlit app estimates:
+
+- **Levelized Cost of Hydrogen (LCOH)** in €/kg  
+- **CO₂ savings** vs grey hydrogen  
+- Based on user inputs: electrolyzer size, efficiency, CAPEX, OPEX, electricity cost, and load hours.
+
+## 🔐 Password Protection
+Access is restricted. Contact the developer for the current password.
+
+## 🚀 How to Use
+1. Adjust inputs like capacity and efficiency.
+2. View results: H₂ output, cost, and CO₂ savings.
+3. Download a CSV summary for your project.
+
+## 🧪 Built With
+- Streamlit
+- Pandas
+
+## 📫 Contact
+Made by Vasilis — internal tool for Norconsult.
